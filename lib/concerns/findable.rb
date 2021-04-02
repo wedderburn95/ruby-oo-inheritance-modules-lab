@@ -4,4 +4,4 @@ module Findable
         self.all.detect{|o| o.name}
       end    
     end
-  end
+end
